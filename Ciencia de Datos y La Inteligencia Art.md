@@ -152,3 +152,8 @@ de Livemetric/Unidad de Excelencia URG
 Este infografia primero fue creada en Figma para tener una idea del diseño por si lo quieren ver esta es la dirección. 
 
 [Figma](https://www.figma.com/proto/najbsQzCilJNJyExIYFuaa/Ciencia-de-Datos-y-La-Inteligencia-Artificial?type=design&node-id=12-0&t=zV7qj2FYdcKrqASS-0&scaling=min-zoom&page-id=0%3A1)
+
+
+
+
+
