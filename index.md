@@ -126,20 +126,12 @@ la Inteligencia Artificial.
 
 ## Fuentes y Referencias
 
-- Murtaza Haider. (2015). Getting Started with Data Science. 26 de febrero del 2021, de IBM/Coursera 
-
-[Sitio web:](https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-DS0101EN-SkillsNetwork/labs/Module%201/Reading_What_Makes_Someone_DataScientist.md.html?origin=www.coursera.org)
+- [Murtaza Haider. (2015). Getting Started with Data Science. 26 de febrero del 2021, de IBM/Coursera](https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-DS0101EN-SkillsNetwork/labs/Module%201/Reading_What_Makes_Someone_DataScientist.md.html?origin=www.coursera.org)
 
 
-
-- COMUNICACIÓN EADIC . (2019). Inteligencia Artificial vs Aprendizaje Automático +vs Deep Learning vs Ciencia de Datos. 26 de febrero del 2021, de eadic 
-
-[Sitio web:](https://www.eadic.com/inteligencia-artificial-vs-aprendizaje-automatico-vs-deep-learning-vs-ciencia-de-datos/#:~:text=La%20Ciencia%20de%20Datos%20(Data,la%20que%20toma%20la%20acci%C3%B3n).)
+- [COMUNICACIÓN EADIC . (2019). Inteligencia Artificial vs Aprendizaje Automático +vs Deep Learning vs Ciencia de Datos. 26 de febrero del 2021, de eadic](https://www.eadic.com/inteligencia-artificial-vs-aprendizaje-automatico-vs-deep-learning-vs-ciencia-de-datos/#:~:text=La%20Ciencia%20de%20Datos%20(Data,la%20que%20toma%20la%20acci%C3%B3n).)
  
-- Francisco Herrera Triguero. (2018).Ciencia de Datos e Inteligencia Artificial. 26 de Febrero del 2021, 
-de Livemetric/Unidad de Excelencia URG 
-
-[Sitio web:](https://livemetrics.ugr.es/unidad-excelencia/computacion-e-inteligencia-artificial/)
+- [Francisco Herrera Triguero. (2018).Ciencia de Datos e Inteligencia Artificial. 26 de Febrero del 2021, de Livemetric/Unidad de Excelencia URG ](https://livemetrics.ugr.es/unidad-excelencia/computacion-e-inteligencia-artificial/)
 
 
 - Favio Vázquez. (2020). Seminario TIC - Las raíces de la ciencia de datos. 
