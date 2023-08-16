@@ -144,3 +144,10 @@ la Inteligencia Artificial.
 Este infografia primero fue creada en Figma para tener una idea del diseño por si lo quieren ver esta es la dirección. 
 
 [Figma](https://www.figma.com/proto/najbsQzCilJNJyExIYFuaa/Ciencia-de-Datos-y-La-Inteligencia-Artificial?type=design&node-id=12-0&t=zV7qj2FYdcKrqASS-0&scaling=min-zoom&page-id=0%3A1)
+
+## Sobre el autor.
+
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+
+<div class="badge-base LI-profile-badge" data-locale="es_ES" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="fernando-sanchez-mejia" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://mx.linkedin.com/in/fernando-sanchez-mejia?trk=profile-badge">Fernando Sanchez Mejia</a></div>
+
